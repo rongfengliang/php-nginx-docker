@@ -1,0 +1,13 @@
+{
+    "name": "dalong/app",
+    "type": "project",
+    "require": {
+        "pugx/shortid-php": "^0.7.0"
+    },
+    "authors": [
+        {
+            "name": "rong",
+            "email": "1141591465@qq.com"
+        }
+    ]
+}
